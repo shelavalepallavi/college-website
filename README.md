@@ -77,4 +77,4 @@ Add animations using libraries like AOS or GSAP
 Make the form functional with email integration (e.g., EmailJS)
 
 🙋‍♂️ Author
-pallavi
+pallavi .
