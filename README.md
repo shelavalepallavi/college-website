@@ -12,13 +12,13 @@ A simple and responsive **College Website** built using **HTML**, **CSS**, and *
 
 ## 📌 Features
 
-- 📄 Static and responsive web pages
-- 🧭 Navigation bar with smooth scrolling
-- 🏫 About section with college introduction
-- 📚 Courses section showcasing available programs
-- 👨‍🏫 Faculty section with teacher profiles
-- 📞 Contact form with validation
-- 🔄 Clean UI and structured layout using CSS Flexbox/Grid
+- 📄 Static and responsive web pages.
+- 🧭 Navigation bar with smooth scrolling.
+- 🏫 About section with college introduction.
+- 📚 Courses section showcasing available programs.
+- 👨‍🏫 Faculty section with teacher profiles.
+- 📞 Contact form with validation.
+- 🔄 Clean UI and structured layout using CSS Flexbox/Grid.
 
 ---
 
