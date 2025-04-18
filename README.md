@@ -1,6 +1,6 @@
 # 🎓 College Website
 
-A simple and responsive **College Website** built using **HTML**, **CSS**, and **JavaScript**. This website can be used as a template for educational institutions and includes essential sections like Home, About, Courses, Faculty, and Contact.
+A simple and responsive **College Website** built using **HTML**, **CSS**, and **JavaScript**. This website can be used as a template for educational institutions and includes essential sections like Home, About, Courses, and Contact.
 
 ---
 
