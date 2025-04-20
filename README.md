@@ -68,13 +68,13 @@ You can open the file directly or use a live server extension if you're using VS
 
 
 📌 Future Enhancements
-Add a backend for dynamic data
+Add a backend for dynamic data.
 
-Integrate a Google Map for the contact section
+Integrate a Google Map for the contact section.
 
-Add animations using libraries like AOS or GSAP
+Add animations using libraries like AOS or GSAP.
 
-Make the form functional with email integration (e.g., EmailJS)
+Make the form functional with email integration (e.g., EmailJS).
 
 🙋‍♂️ Author
 pallavi .
