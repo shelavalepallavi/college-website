@@ -62,7 +62,7 @@ Navigate to the project folder
 cd college-website
 ```
 
-Open index.html in your browser
+Open index.html in your browser.
 You can open the file directly or use a live server extension if you're using VS Code.
 
 
